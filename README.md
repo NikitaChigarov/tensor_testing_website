@@ -19,7 +19,7 @@
 Для этого выполните эту команду в терминале:
 
 ```sh
-$ git clone https://gitlab.skillbox.ru/nikita_chigarov/python_basic_diploma.git
+$ git clone https://github.com/NikitaChigarov/tensor_testing_website.git
 ```
 
 Затем установите все библиотеки из файла (находится внутри клонированного репозитория) requirements.txt:
